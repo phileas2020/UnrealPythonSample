@@ -1,0 +1,3 @@
+[submodule "Plugins/UnrealEnginePython"]
+	path = Plugins/UnrealEnginePython
+	url = https://github.com/phileas2020/UnrealEnginePython.git
